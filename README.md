@@ -1,2 +1,2 @@
-# IB-Mathematics-Extended-Essay
+# IBMathematicsExtendedEssay
 This repository provides the PDF and the corresponding TeX file of my Extended Essay.
